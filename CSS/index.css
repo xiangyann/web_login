@@ -1,0 +1,68 @@
+body
+{
+	margin			: 0;
+
+	background		: #000 url("../Picture/wallpaper.jpg");
+	background-size		: cover;
+	background-repeat	: no-repeat;
+}
+
+.logo
+{
+	font-family		: 'Poiret One', cursive;
+	font-weight		: bold;
+	color			: BLUE;
+	font-size		: 30px;
+	padding			: 10px;
+	text-align		: center;
+}
+
+/* 間距*/
+.form-group
+{
+	margin			: 10px 15px;
+}
+
+.form-textbox
+{
+	width			: 90%;
+	padding			: 5px 10px;
+	font-size		: 20px;
+	border-radius		: 7px;
+}
+
+.background-color
+{
+	background-color	: #fff;
+}
+
+.form-text
+{
+	font-size		: 16px;
+}
+
+.form-checkbox
+{
+	margin			: 10px;
+}
+
+.submit-box
+{
+	margin			: 0 10px 10px 15px;
+	FONT-SIZE		: 20px;
+}
+
+.fornt_page
+{
+
+	width			: 300px;
+	height			: 264px;
+	position		: absolute;
+	left			: 50%;
+	top			: 50%;
+	margin-top		: -132px;
+	margin-left		: -150px;
+	background		: rgba(255,255,255,0.5);
+	border-radius		: 10px;
+
+}
